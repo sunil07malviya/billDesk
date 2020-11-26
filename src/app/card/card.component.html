@@ -1,0 +1,13 @@
+<h1>Billing</h1>
+<div class="flex-container">
+  <div class="flex-item-left" *ngFor="let data of item" (click)="openDialog()">
+    <h2>{{data?.header}}</h2>
+    <div *ngFor="let data of data?.details">{{data.price}}</div>
+    <ul *ngFor="let data of data?.details">
+      <li> {{data.description}}</li>
+  </ul>
+
+</div>
+
+</div>
+

@@ -1,0 +1,74 @@
+[
+  {
+    "header":"Basic",
+    "details":[
+      {
+        "id": 1,
+        "price": "$2.95/provider/monthly",
+        "description": "Create Practice Storefront"
+      },
+      {
+        "id": 2,
+        "price": "$29.95/provider/yearls",
+        "description": "Create and market bundles"
+      }
+    ]
+  },
+  {
+    "header":"Pro",
+    "details": [
+      {
+        "id": 1,
+        "price": "$4.95/provider/monthly",
+        "description": "Create Practice Storefront"
+      },
+      {
+        "id": 2,
+        "price": "$49.95/provider/yearls",
+        "description": "Create and market bundles"
+      },
+      {
+        "id": 3,
+        "price": "",
+        "description": "Collect cash centrally"
+      },
+      {
+        "id": 4,
+        "price": "",
+        "description": "Consolidated patient list"
+      }
+    ]
+  },
+
+  {
+    "header":"Enterprise",
+    "details": [
+      {
+        "id": 1,
+        "price": "$9.95/provider/monthly",
+        "description": "Create Practice Storefront"
+      },
+      {
+        "id": 2,
+        "price": "$99.95/provider/yearls",
+        "description": "Create and market bundles"
+      },
+      {
+        "id": 3,
+        "price": "",
+        "description": "Collect cash centrally"
+      },
+      {
+        "id": 4,
+        "price": "",
+        "description": "Consolidated patient list"
+      },
+      {
+        "id": 4,
+        "price": "",
+        "description": "Practice preffered provider list"
+      }
+    ]
+  }
+
+]
